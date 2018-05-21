@@ -1,2 +1,8 @@
 ---
 description: "vsrx"
+location: "no where"
+interfaces:
+  - name: fxp0
+    address: 10.85.84.200
+  - name: ge/0/1
+    address: 192.168.10.10
