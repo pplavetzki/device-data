@@ -6,3 +6,5 @@ interfaces:
     address: 10.85.84.200
   - name: ge/0/1
     address: 192.168.10.10
+juniper_rsa_key: "20392293294239-9203982348jfijocjkw"
+root_password: "9029fdsakflkfj0232p092-920392kal-23ioijjfd-fjaklfd"
