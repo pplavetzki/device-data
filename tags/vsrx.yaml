@@ -6,5 +6,6 @@ interfaces:
     address: 10.85.84.200
   - name: ge/0/1
     address: 192.168.10.10
-juniper_rsa_key: "20392293294239-9203982348jfijocjkw"
-root_password: "9029fdsakflkfj0232p092-920392kal-23ioijjfd-fjaklfd"
+juniper_rsa_key: "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDII0DIo0IRl+dlanTYkW6PnAidLHyLhDOLUAzcdJk/jKxJM5JdIuZI8oORJMrhyNFGNJBVGbJQ8d19RDRvw5gkhovX/bM9NJ8CvUgO2vOAAhaEaTQ3Rno7gOeOIrTmzlfyQ94oS4NuxgC5s06xddOpp0XP0eyazwtWmaK7bEZFMUWBezdV5U6vznUHCVf68u7zbLJrUhCiapfbTBXlzn/aC4rZj+rgH2i0OPX75dQ0e+FPmLNALHqG4lhsg/ox41/md5mTcy33F1AmKHFJOlIuoCWQ1Q1RpnzzKLhd4HmujBVEeXR47923eD3ioFxCD565LX5JEeFcItBPffA4xM9B"
+root_password: "$5$tkMedD9R$Q07hfdJjGHXQH7LT8e0rNDPjXF1cWrX1gv2w9q.cnr3"
+juniper_password: "$5$mQU44bHL$AL9s6komAjFoBKGGShwpWUbd.qKsGR5DKYDMOnFC4J8"
