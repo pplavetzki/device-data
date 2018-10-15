@@ -1,0 +1,4 @@
+---
+netconf_port: 22
+netconf_user: spread
+netconf_passwd: PullMyFinger

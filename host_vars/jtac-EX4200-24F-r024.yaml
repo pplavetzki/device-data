@@ -1,0 +1,5 @@
+---
+node:
+  oob:
+    re0_address: 10.10.2.10
+    re0_mask: 24
