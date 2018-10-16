@@ -1,4 +1,4 @@
 ---
 netconf_port: 22
-netconf_user: spread
-netconf_passwd: PullMyFinger
+netconf_user: root
+netconf_passwd: Embe1mpls
