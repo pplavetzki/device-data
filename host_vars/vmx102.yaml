@@ -1,5 +1,5 @@
 ---
 node:
   oob:
-    re0_address: 10.49.105.184
+    re0_address: 10.49.113.254
     re0_mask: 24
